@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finance-updater-middle-man",
+  "private_key_id": "bf7ab69c5f17641c955601caacbfee835fe0de66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClfXbHhyGH0uAH\nqbBQaryKiZn/9yPmvHnNDqm35OcjZb4kdxws5BxLm8S/L/x8yoycwpw+ZV0raSV3\n1+8VJ5hW5GQM/38HaiAwyBQBYsVidYl+2CFQg28Hq+a5oWJ+RaMC7EVisBpnIsiC\nNhldz44q1u19oIrgbBL/0EcS2NMc0Ge2xlwOoAenGROpK0TSdohj/bk3JfwdOnts\nVElXjwGSAy405NWPmWLTqkQoOcFeuBY/1AxytakqNOV0N0jfMowrXV1C56YMZ1Xa\n+d54h0XZKjylcfjfPVsZNBU0AuiAMdp+t54lAJ9O2HlUYw60Zq4JXF+Wg2DY0alA\nzyLF/YgjAgMBAAECggEAC4xYTBWPDovcH0/4YkkFTcOX0AfE5RaU7boB61FZaDWm\nEaRc/nlcMh7of8Qo+32LV2sX/R17GKSDPVXMgZTpEAzRbVWTXaCXWeAaz65Ygmwb\n6d9jxifaorxPr8RMlVQyfmmfcLYQrM7KeclHQ63p4iDScAUfSKIYdB23WZM9rcTb\nVQooUJoAQWnh8gje3+vIghY4vT8gvNAQHUOaHRVTVfbEjlNJV5BEeFGmV/NRqXv3\nn0PteeHaQLyIEuu20oItTBUiQuAequ/Yrj0OlzSLmlxE1puhSAFEloA6qgrkL6sU\nS59imNrrtiiZ26JURtPqub+NXBAXKrHoYHqnp1/7RQKBgQDUyL1aCL8Yg2pC+8MI\nk0qaIpIYcSt9vuIqF+0KKiWyr3U5j0JKBikZWl0lwxEnemdRRfA55J0J/m29uHE6\noYVMeGo0eNMWUDDMRVpjdU0iNKJHvQGK89EkwLJ7aAaCVbp35u2fkdoUxqoQfGBk\neZN+PIwOuI148ppPncMZ39xynwKBgQDHGcVKFDanfOcRnYxHSTGgpR6aIuFBI3Zx\na3tTt1kQAaqXqIPwSYdv77sZWJO5SgqARJ3WbZmRkEezTceDo/D7FDgwFSnXbt5j\nrAoo9qiCP863pd99DzkPkng1sz8d1xRHnKNDRfIqTYtqH6raZRaHnm1At4BiyszQ\n7i7q92Ef/QKBgQC3kdLhiKgr4rvau84/aKq0nNyDH6cQnYwKGogR+9h39izgknny\n2Ku+RpoTiN0UvOHDWN3tZBAi3hAY27U7irswBLZDPHWHS3k90RswsLLxrozN7P4W\nvU+SMHgKRO1QpdrvtBcOUcrdn6J6BIM4SzZ2co+153uNe2arBwSZHurVKwKBgQCa\nNVOhdNaAEzXFZwlnjUFq83koWSuukBEE+AKlbLUGuMOwg0ztp4XHJR79GqYQNVC8\n2GiH1IvFOsLOFcgaJbhYP+jlFP87ZRvKh023PJR3jYRGqarX6hp//SouLY8NRbDn\nZmLtkBdovHbm03A5h2JT2Fk2bup5minZCSI9yyzm4QKBgDWnY71dGYPEAe2Jkb7r\nvpPKFU3+pp1/e5wVPwGVzZNhDnKjveZZk0vv4TO7Re++vxj+MZaevVHhKAntjrH9\n+6d9wAmFX2xcEPSeDp24y7QP1Ba1uk+a3b5MZ3bxCtTxPmWwKDLYOwAKOWKSe+9X\n6Q5LHSqJaRPworCRIV4GnTjZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "frankharperxi@finance-updater-middle-man.iam.gserviceaccount.com",
+  "client_id": "109093327044281684739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frankharperxi%40finance-updater-middle-man.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
